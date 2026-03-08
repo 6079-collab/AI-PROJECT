@@ -15,6 +15,7 @@ Team member : SAJITHA R
 Team member : AKSHAYA S
 
 
+________________________________________
 🌿 Leaf Health Check
 Turn simple leaf images into actionable plant health insights using AI-powered image analysis.
 The system detects damaged areas on plant leaves, estimates severity, and provides helpful rescue recommendations to assist farmers, gardeners, and plant enthusiasts.
