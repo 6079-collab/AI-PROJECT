@@ -53,7 +53,7 @@ Prerequisites
 ________________________________________
 ⚙ Installation
 Clone the repository
-git clone https://github.com/YOUR_USERNAME/Leaf-Health-Check.git
+git clone https://github.com/6079-collab/AI-PROJECT.git
 cd Leaf-Health-Check
 Install dependencies
 pip install -r requirements.txt
