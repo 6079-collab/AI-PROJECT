@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDnPOmSzi_P7rXwJ_tL42ZlctpnyDFKwjo")
+genai.configure(api_key="api_key")
 
 model = genai.GenerativeModel("models/gemini-2.0-flash")
 
@@ -27,6 +27,7 @@ def get_ai_diagnosis(severity):
             return "Possible fungal infection. Apply fungicide and isolate the plant."
         else:
             return "Severe plant damage detected. Consider replacing the plant and improving soil quality."
+
 
 
 
